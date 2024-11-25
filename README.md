@@ -20,9 +20,9 @@
 <p>☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
 
 ## Technical Skills
-- **Languages**: swift , C++, Java, Python, JavaScript
+- **Languages**: swift , Java, Python
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Django , springboot
+- **Backend**: Django , flask
 - **Database**:  MySQL
 - **Tools**: Git, GitHub, VSCode
 
